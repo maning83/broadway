@@ -11,7 +11,9 @@ a {
   color: white;
   }
 
-header{background: url("./the-flatiron-building.png");}
+header{background: url("./the-flatiron-building.png");
+background-repeat: no-repeat;
+background-size: 100% 100%;}
 
 h2 {font-size: 32px;
 font-weight: bold;}
@@ -28,4 +30,6 @@ text-align: left;}
 
 #info {
   background: url("./the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-size: 100% ;
 color: white;}
